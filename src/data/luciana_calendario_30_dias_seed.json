@@ -1,0 +1,1812 @@
+{
+  "campaign": {
+    "id": "luciana-nov-2026",
+    "name": "Plano Editorial — Novembro 2026",
+    "start": "2026-11-03",
+    "end": "2026-12-02",
+    "timezone": "America/Sao_Paulo",
+    "instagram": "@lucianaserpaoficial"
+  },
+  "content": [
+    {
+      "id": "ls-2026-01",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-03",
+      "format": "Reel",
+      "title": "Você não é forte o tempo todo. Você aprendeu que não podia depender de ninguém.",
+      "objective": "Alcance",
+      "storyPlan": "Enquete: Você tem dificuldade de pedir ajuda?",
+      "cta": "Envie para uma mulher que precisa ouvir isso.",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-02",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-04",
+      "format": "Carrossel",
+      "title": "5 sinais de que você aprendeu a conquistar amor agradando a todos.",
+      "objective": "Salvamentos",
+      "storyPlan": "Caixa: Qual desses sinais mais aparece em você?",
+      "cta": "Salve para reconhecer esses padrões.",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-03",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-05",
+      "format": "Stories",
+      "title": "Bastidores do consultório e apresentação do seu propósito.",
+      "objective": "Conexão",
+      "storyPlan": "Vídeo curto sobre por que trabalha identidade feminina.",
+      "cta": "Responda: o que mais tem sobrecarregado você?",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-04",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-06",
+      "format": "Reel",
+      "title": "Você não é insegura por natureza. Talvez tenha aprendido a duvidar de si.",
+      "objective": "Alcance",
+      "storyPlan": "Enquete: Você se cobra demais?",
+      "cta": "Compartilhe com alguém que precisa dessa reflexão.",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-05",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-07",
+      "format": "Carrossel",
+      "title": "A mulher que resolve tudo também precisa ser cuidada.",
+      "objective": "Identificação",
+      "storyPlan": "Pergunta: Quando foi a última vez que você se permitiu descansar?",
+      "cta": "Salve este lembrete.",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-06",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-08",
+      "format": "Stories",
+      "title": "Fé não elimina a necessidade de cuidar da vida emocional.",
+      "objective": "Vínculo",
+      "storyPlan": "Reflexão bíblica e pergunta sobre descanso.",
+      "cta": "Responda com uma palavra: como está seu coração?",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-07",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-09",
+      "format": "Reel",
+      "title": "Você tem medo de errar ou de decepcionar as pessoas?",
+      "objective": "Seguidores",
+      "storyPlan": "Bastidor sobre autocobrança nas decisões.",
+      "cta": "Siga para compreender melhor seus padrões.",
+      "week": 1,
+      "weekTheme": "Identificação: reconhecer a própria dor",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-08",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-10",
+      "format": "Carrossel",
+      "title": "A menina que precisava ser aceita pode ter se tornado a mulher que não sabe dizer não.",
+      "objective": "Autoridade",
+      "storyPlan": "Enquete sobre limites e culpa.",
+      "cta": "Salve para refletir antes de dizer sim novamente.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-09",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-11",
+      "format": "Reel",
+      "title": "3 comportamentos que podem revelar medo de rejeição.",
+      "objective": "Alcance",
+      "storyPlan": "Caixa: Em qual situação sente mais medo de julgamento?",
+      "cta": "Compartilhe com quem precisa entender isso.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-10",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-12",
+      "format": "Stories",
+      "title": "Nem toda dificuldade emocional começa na vida adulta.",
+      "objective": "Conexão",
+      "storyPlan": "Explicação sobre padrões aprendidos, sem diagnóstico.",
+      "cta": "Envie sua dúvida sobre padrões emocionais.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-11",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-13",
+      "format": "Carrossel",
+      "title": "O que a ausência emocional dos pais pode ensinar sobre o amor?",
+      "objective": "Salvamentos",
+      "storyPlan": "Pergunta: Você se sente responsável pelas emoções dos outros?",
+      "cta": "Salve as perguntas de reflexão.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-12",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-14",
+      "format": "Reel",
+      "title": "Por que mulheres competentes continuam se diminuindo?",
+      "objective": "Autoridade",
+      "storyPlan": "Bastidor sobre autoconfiança e padrões de pensamento.",
+      "cta": "Siga para acompanhar esta série.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-13",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-15",
+      "format": "Stories",
+      "title": "O cuidado de Deus não exige que você se abandone.",
+      "objective": "Conexão",
+      "storyPlan": "Reflexão sobre descanso e Mateus 11:28.",
+      "cta": "Compartilhe esta reflexão.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-14",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-16",
+      "format": "Reel",
+      "title": "Você pede desculpas até quando não fez nada errado?",
+      "objective": "Interações",
+      "storyPlan": "Enquete: Sente culpa quando estabelece limites?",
+      "cta": "Comente: isso acontece comigo.",
+      "week": 2,
+      "weekTheme": "Raiz: compreender comportamentos aprendidos",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-15",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-17",
+      "format": "Carrossel",
+      "title": "Você não precisa continuar vivendo a identidade que a dor construiu.",
+      "objective": "Autoridade",
+      "storyPlan": "Explique o primeiro pilar: restauração da identidade.",
+      "cta": "Salve e conheça meu processo terapêutico no perfil.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-16",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-18",
+      "format": "Reel",
+      "title": "Ressignificar o passado não é fingir que ele não aconteceu.",
+      "objective": "Conversão",
+      "storyPlan": "Pergunta: Que crença sobre você gostaria de rever?",
+      "cta": "Acesse o link da bio para conhecer a terapia.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-17",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-19",
+      "format": "Stories",
+      "title": "Como funciona meu método terapêutico?",
+      "objective": "Conversão",
+      "storyPlan": "Sequência: identidade, história, pensamentos e fortalecimento emocional.",
+      "cta": "Envie MÉTODO para saber mais.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-18",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-20",
+      "format": "Carrossel",
+      "title": "4 passos para começar a reconstruir sua confiança.",
+      "objective": "Salvamentos",
+      "storyPlan": "Checklist prático com pequenas decisões e limites.",
+      "cta": "Salve o exercício para fazer nesta semana.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-19",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-21",
+      "format": "Reel",
+      "title": "Você não precisa sentir segurança para começar a se posicionar.",
+      "objective": "Alcance",
+      "storyPlan": "Bastidor sobre comunicação assertiva.",
+      "cta": "Compartilhe com uma mulher que precisa ocupar seu espaço.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-20",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-22",
+      "format": "Stories",
+      "title": "Deus não chama você para viver aprisionada ao medo.",
+      "objective": "Conexão",
+      "storyPlan": "Reflexão contextualizada sobre 2 Timóteo 1:7.",
+      "cta": "Qual área da sua vida precisa de coragem?",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-21",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-23",
+      "format": "Carrossel",
+      "title": "Nem toda mulher que parece confiante se sente segura por dentro.",
+      "objective": "Conversão",
+      "storyPlan": "Explique a diferença entre imagem externa e segurança emocional.",
+      "cta": "Veja como funciona o processo terapêutico na bio.",
+      "week": 3,
+      "weekTheme": "Restauração: apresentar o método",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-22",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-24",
+      "format": "Reel",
+      "title": "O que muda quando você deixa de precisar da aprovação de todos?",
+      "objective": "Alcance",
+      "storyPlan": "Pergunta sobre decisões que você tem adiado.",
+      "cta": "Envie para alguém que precisa desta mensagem.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-23",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-25",
+      "format": "Carrossel",
+      "title": "5 decisões de uma mulher que está aprendendo a respeitar seus limites.",
+      "objective": "Salvamentos",
+      "storyPlan": "Enquete com situações de limites e autocuidado.",
+      "cta": "Salve para praticar ao longo da semana.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-24",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-26",
+      "format": "Stories",
+      "title": "A terapia é para mim?",
+      "objective": "Conversão",
+      "storyPlan": "Responda dúvidas sobre indicação, formato e etapas.",
+      "cta": "Converse comigo pelo link da bio.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-25",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-27",
+      "format": "Reel",
+      "title": "Talvez você não precise mudar de vida. Precise mudar a forma como se enxerga.",
+      "objective": "Conversão",
+      "storyPlan": "Exemplo geral de autopercepção, sem expor pacientes.",
+      "cta": "Acesse minha página de terapia.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-26",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-28",
+      "format": "Carrossel",
+      "title": "Você está vivendo suas escolhas ou tentando corresponder às expectativas dos outros?",
+      "objective": "Identificação",
+      "storyPlan": "Caixa: Em qual área você mais se anula?",
+      "cta": "Salve estas perguntas de autoconhecimento.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-27",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-29",
+      "format": "Stories",
+      "title": "Sua identidade não precisa ser definida pelas feridas que viveu.",
+      "objective": "Conexão",
+      "storyPlan": "Reflexão sobre Salmo 139 e dignidade pessoal.",
+      "cta": "Compartilhe com uma amiga.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Ideias",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-28",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-11-30",
+      "format": "Reel",
+      "title": "Existe uma diferença entre ser uma mulher ocupada e uma mulher realizada.",
+      "objective": "Alcance",
+      "storyPlan": "Enquete: O que hoje mais rouba sua paz?",
+      "cta": "Siga para continuar esta jornada.",
+      "week": 4,
+      "weekTheme": "Transformação: futuro possível",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-29",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-12-01",
+      "format": "Carrossel",
+      "title": "7 perguntas para perceber se você está se abandonando emocionalmente.",
+      "objective": "Conversão",
+      "storyPlan": "Stories respondendo dúvidas sobre terapia.",
+      "cta": "Salve o checklist e conheça o atendimento na bio.",
+      "week": 5,
+      "weekTheme": "Fechamento: relacionamento e agendamento",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    },
+    {
+      "id": "ls-2026-30",
+      "campaignId": "luciana-nov-2026",
+      "date": "2026-12-02",
+      "format": "Reel",
+      "title": "Você não precisa entrar em um novo ano carregando os mesmos padrões sem questioná-los.",
+      "objective": "Conversão",
+      "storyPlan": "Convite pessoal e explicação do que esperar de uma sessão.",
+      "cta": "Agende sua sessão pelo link da bio.",
+      "week": 5,
+      "weekTheme": "Fechamento: relacionamento e agendamento",
+      "status": "Roteiro",
+      "checklist": [
+        {
+          "label": "Gancho definido",
+          "done": false
+        },
+        {
+          "label": "Roteiro escrito",
+          "done": false
+        },
+        {
+          "label": "Copy revisada",
+          "done": false
+        },
+        {
+          "label": "Arte ou vídeo produzido",
+          "done": false
+        },
+        {
+          "label": "Capa pronta",
+          "done": false
+        },
+        {
+          "label": "Legenda pronta",
+          "done": false
+        },
+        {
+          "label": "CTA revisado",
+          "done": false
+        },
+        {
+          "label": "Agendado",
+          "done": false
+        },
+        {
+          "label": "Publicação confirmada",
+          "done": false
+        },
+        {
+          "label": "Métricas registradas",
+          "done": false
+        }
+      ],
+      "script": "",
+      "caption": "",
+      "priority": "Normal",
+      "publishedUrl": null,
+      "metrics": null
+    }
+  ]
+}
